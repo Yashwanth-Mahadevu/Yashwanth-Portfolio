@@ -15,7 +15,7 @@ const Hero = () => {
   return (
     <section style={heroStyle} id="hero">
     <div className="image">
-        <img src={Profile} className="image-link"></img>
+        <img src={Profie} className="image-link"></img>
         <div className="images">
         <h1>YASHWANTH M</h1>
         <h3 className="summary"> -  Aspiring Software Developer with expertise in React, Python, Java and Web Technology . Passionate about building scalable and efficient software solutions.</h3>
